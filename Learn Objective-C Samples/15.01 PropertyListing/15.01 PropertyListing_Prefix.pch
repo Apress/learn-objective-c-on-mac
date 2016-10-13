@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '15.01 PropertyListing' target in the '15.01 PropertyListing' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

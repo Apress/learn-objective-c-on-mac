@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Hello Objective-C' target in the 'Hello Objective-C' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

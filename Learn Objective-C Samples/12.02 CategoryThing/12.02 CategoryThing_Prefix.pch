@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '12.02 CategoryThing' target in the '12.02 CategoryThing' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

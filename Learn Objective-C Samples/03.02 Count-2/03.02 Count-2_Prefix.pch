@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '03.02 Count-2' target in the '03.02 Count-2' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

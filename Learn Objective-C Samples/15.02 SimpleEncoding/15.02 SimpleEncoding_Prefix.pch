@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '15.02 SimpleEncoding' target in the '15.02 SimpleEncoding' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

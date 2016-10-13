@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '16.01 Car-Part-Predicate' target in the '16.01 Car-Part-Predicate' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

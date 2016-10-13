@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '12.03 ITunesFinder' target in the '12.03 ITunesFinder' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
